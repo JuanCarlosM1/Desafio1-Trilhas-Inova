@@ -22,6 +22,9 @@ A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipam
 | **Notebook Positivo** | R$ 3.000,00 |
 | **Notebook Lenovo** | R$ 4.000,00 |
 
+## 📸 Demonstração da Página
+![Preview da ByteForge Informática](./assets/preview.png)
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -31,20 +34,42 @@ A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipam
 
 ---
 
-## 💻 Instruções de Execução
-
-1. Clone o repositório ou faça o download dos arquivos:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-   ```
-2. Abra a pasta do projeto.
-3. Abra o arquivo `index.html` diretamente em qualquer navegador de sua preferência (dê dois cliques no arquivo ou utilize a extensão **Live Server** no VS Code).
-4. Clique no botão **"Simular Compra"** no canto inferior direito para iniciar a simulação.
+## 📦 Pré-requisitos
+Antes de começar, certifique-se de ter instalado em sua máquina:
+- [Node.js](https://nodejs.org/) (que inclui o **npm**)
+- [Git](https://git-scm.com/) (opcional, para clonar o repositório)
 
 ---
 
-## 📸 Demonstração da Página
-![Preview da ByteForge Informática](./assets/preview.png)
+## 💻 Instruções de Instalação e Execução
+
+1. Clone o repositório ou faça o download dos arquivos:
+   ```bash
+   git clone https://github.com/JuanCarlosM1/Desafio1-Trilhas-Inova.git
+   ```
+
+2. Acesse a pasta do projeto no terminal::
+   ```bash
+   cd Desafio1Trilhas
+   ```
+
+3. Instale as dependências do projeto listadas no package.json:
+
+   ```bash
+   npm install
+   ```
+
+4. 
+   Abra o arquivo index.html diretamente em qualquer navegador de sua preferência (dê dois cliques no arquivo ou utilize a extensão Live Server no VS Code).
+
+5.
+
+   Clique no botão "Simular Compra" no canto inferior direito para iniciar a simulação.
+
+
+---
+
+
 
 ---
 
