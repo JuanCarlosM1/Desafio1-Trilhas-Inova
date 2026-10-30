@@ -63,13 +63,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
    Abra o arquivo index.html diretamente em qualquer navegador de sua preferência (dê dois cliques no arquivo ou utilize a extensão Live Server no VS Code).
 
 5.
-
    Clique no botão "Simular Compra" no canto inferior direito para iniciar a simulação.
-
-
----
-
-
 
 ---
 
