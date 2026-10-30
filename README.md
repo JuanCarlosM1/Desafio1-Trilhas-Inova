@@ -46,7 +46,7 @@ A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipam
 ---
 
 ## 📸 Demonstração da Página
-![Preview da ByteForge Informática](./imagens/preview.png)
+![Preview da ByteForge Informática](./assets/preview.png)
 
 ---
 
