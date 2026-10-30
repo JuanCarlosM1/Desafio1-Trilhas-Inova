@@ -29,7 +29,7 @@ A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipam
 ## 🚀 Tecnologias Utilizadas
 - **HTML5:** Estruturação semântica da página, tabela/cards de produtos e rodapé com identificação.
 - **CSS3:** Estilização responsiva (Flexbox, Media Queries para desktop e mobile) e botão flutuante.
-- **JavaScript (ES6):** Lógica interativa de captação de dados (`prompt`), validações de entrada, cálculos matemáticos e exibição do resumo de compra (`alert`).
+- **JavaScript (ES6):** Lógica interativa de captação de dados (`prompt`), validações de entrada, cálculos matemáticos e exibição do resumo de compra (`alert`), biblioteca (`prompt-sync`).
 
 ---
 
@@ -46,7 +46,6 @@ A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipam
 ---
 
 ## 📸 Demonstração da Página
-<!-- Salve um print da tela na pasta imagens (ex: imagens/preview.png) e descomente a linha abaixo -->
 ![Preview da ByteForge Informática](./imagens/preview.png)
 
 ---
@@ -63,11 +62,9 @@ A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipam
 ---
 
 ## 🧠 Dificuldades Encontradas e Aprendizados
-- **Validação de entradas:** Garantir que o usuário não insira letras ou números negativos usando loops `while` e tratamento com `isNaN()`.
-- **Organização de arquivos:** Manter a separação limpa entre estrutura (`HTML`), estilo (`CSS`) e comportamento (`JS`).
 - **Responsividade:** Adequar a disposição dos produtos em telas menores através de media queries para garantir boa experiência em dispositivos móveis.
 
 ---
 
 ## 🤖 Uso de Inteligência Artificial
-- **Onde foi utilizada:** Auxílio na estruturação inicial da documentação (`README.md`) e (``)
+- **Onde foi utilizada:** Auxílio na estruturação inicial da documentação (`README.md`).
