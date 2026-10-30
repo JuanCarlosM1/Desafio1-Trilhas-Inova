@@ -55,7 +55,7 @@ A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipam
 | **Entrada com texto/letras** | `"abc"` ou vazio | Exibe alerta de quantidade inválida e repete o prompt até entrada numérica válida. |
 | **Entrada com número negativo** | `-2` | Bloqueado pela validação em loop. Exibe alerta de quantidade inválida e repete o prompt até entrada numérica válida. |
 | **Compra zerada** | `0`, `0`, `0` | Exibe mensagem indicando que nenhum produto foi comprado com total R$ 0. |
-| **Fluxo normal de compra** | `1`, `2`, `1` | Calcula subtotais por item e exibe a soma total correta no alerta. |
+| **Fluxo normal de compra** | `1`, `2`, `1` e `1`,`0`,`1` | Calcula subtotais por item e exibe a soma total correta no alerta. |
 
 ---
 
