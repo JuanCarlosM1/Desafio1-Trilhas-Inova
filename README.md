@@ -16,8 +16,8 @@
 A **ByteForge Informática** é uma vitrine virtual focada em hardware e equipamentos de informática de alta performance.
 
 ### Catálogo de Produtos:
-| Produto | Descrição | Preço Unitário |
-| :--- | :--- | :--- |
+| Produto Preço Unitário |
+| :--- | :--- |
 | **Notebook 2 em 1** |  R$ 2.000,00 |
 | **Notebook Positivo** | R$ 3.000,00 |
 | **Notebook Lenovo** | R$ 4.000,00 |
